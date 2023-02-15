@@ -170,5 +170,10 @@ namespace FluentFTP {
 		/// Definitely XLight FTP server
 		/// </summary>
 		XLight,
+
+		/// <summary>
+		/// Definitely TYPSoft FTP server
+		/// </summary>
+		TYPsoft,
 	}
 }

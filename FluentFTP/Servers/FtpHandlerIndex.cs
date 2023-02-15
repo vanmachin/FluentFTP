@@ -27,6 +27,7 @@ namespace FluentFTP.Servers {
 			new ServUServer(),
 			new SolarisFtpServer(),
 			new TitanFtpServer(),
+			new TYPSoftFTPServer(),
 			new VsFtpdServer(),
 			new WindowsCEServer(),
 			new WindowsIISServer(),
